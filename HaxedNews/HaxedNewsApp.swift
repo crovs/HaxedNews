@@ -2,7 +2,7 @@
 import SwiftUI
 
 @main
-struct H4xXOR_NewsApp: App {
+struct HaxedNewsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
